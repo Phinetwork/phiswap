@@ -1,5 +1,5 @@
 {
-  "name": "Pancakeswap Default List",
+  "name": "Phiswap Default List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://pancakeswap.finance/logo.png",
+  "logoURI": "https://phiswap.org/wp-content/uploads/2022/03/cropped-output-onlinepngtools-25.png",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
