@@ -8,7 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://phiswap.org/wp-content/uploads/2022/03/cropped-output-onlinepngtools-25.png",
-  "keywords": ["pancake", "default"],
+  "keywords": ["phiswap", "dex amm"],
   "tokens": [
     {
       "name": "Wrapped PHI",
@@ -43,9 +43,33 @@
       "logoURI": "https://phi.network/wp-content/uploads/2022/05/alien-monster_1f47e.png"
     },
     {
+      "name": "ΦEthereum",
+      "symbol": "ΦETH",
+      "address": "0x1212Ad94fC912742cAc56f4898EEb4faC6fB5583",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5370.png"
+    },
+    {
+      "name": "ΦBitcoin",
+      "symbol": "ΦBTC",
+      "address": "0xDb6473eDA7bBeb60D68724Fdcd6d8B7f22654AAf",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5368.png"
+    },
+    {
+      "name": "ΦTether USD",
+      "symbol": "ΦUSDT",
+      "address": "0x1212Ad94fC912742cAc56f4898EEb4faC6fB5583",
+      "chainId": 4181,
+      "decimals": 2,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5366.png"
+    },
+    {
       "name": "Ethereum",
       "symbol": "ETH",
-      "address": "0x1212Ad94fC912742cAc56f4898EEb4faC6fB5583",
+      "address": "0x12df0bc815ece79b17b1e50ba4930adef3b6ee86",
       "chainId": 4181,
       "decimals": 18,
       "logoURI": "https://instantmarketcap.com/coins_images/ethereum/large.png"
@@ -53,7 +77,7 @@
     {
       "name": "Bitcoin",
       "symbol": "BTC",
-      "address": "0xDb6473eDA7bBeb60D68724Fdcd6d8B7f22654AAf",
+      "address": "0x64a06abb6bdb2487bc44177de5107b7ec7136c4b",
       "chainId": 4181,
       "decimals": 18,
       "logoURI": "https://instantmarketcap.com/coins_images/bitcoin/large.png"
@@ -61,7 +85,7 @@
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0xd9990fDc1036e3E7bCcb3dFC163F666C77250B62",
+      "address": "0xc9b0fcb7b97cfc0f1c3c9e360383ccc1bea6c795",
       "chainId": 4181,
       "decimals": 2,
       "logoURI": "https://instantmarketcap.com/coins_images/tether/large.png"
@@ -73,6 +97,14 @@
       "chainId": 4181,
       "decimals": 18,
       "logoURI": "https://phi.network/wp-content/uploads/2022/05/IMG_4885.png"
+    },
+    {
+      "name": "Truth",
+      "symbol": "Truth",
+      "address": "0x392bbdc1615cdb8d13458278ee7c58e27cdd232e",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phi.network/wp-content/uploads/2022/05/hundred-points_1f4af.png"
     },
     {
       "name": "Binance",
