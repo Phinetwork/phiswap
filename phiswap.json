@@ -1,5 +1,5 @@
 {
-  "name": "Phiswap Default List",
+  "name": "Phiswapswap Default List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -8,7 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://phiswap.org/wp-content/uploads/2022/03/cropped-output-onlinepngtools-25.png",
-  "keywords": ["phiswap", "dex amm"],
+  "keywords": ["phiswap", "default"],
   "tokens": [
     {
       "name": "Wrapped PHI",
@@ -48,7 +48,7 @@
       "address": "0x1212Ad94fC912742cAc56f4898EEb4faC6fB5583",
       "chainId": 4181,
       "decimals": 18,
-      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5370.png"
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5378.png"
     },
     {
       "name": "ΦBitcoin",
@@ -56,15 +56,15 @@
       "address": "0xDb6473eDA7bBeb60D68724Fdcd6d8B7f22654AAf",
       "chainId": 4181,
       "decimals": 18,
-      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5368.png"
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5376.png"
     },
     {
       "name": "ΦTether USD",
       "symbol": "ΦUSDT",
-      "address": "0x1212Ad94fC912742cAc56f4898EEb4faC6fB5583",
+      "address": "0xd9990fDc1036e3E7bCcb3dFC163F666C77250B62",
       "chainId": 4181,
       "decimals": 2,
-      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5366.png"
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5375.png"
     },
     {
       "name": "Ethereum",
@@ -85,7 +85,7 @@
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0xc9b0fcb7b97cfc0f1c3c9e360383ccc1bea6c795",
+      "address": "0x0e9439ab9ece43ea5dfd32c9347b5a2654c7b749",
       "chainId": 4181,
       "decimals": 2,
       "logoURI": "https://instantmarketcap.com/coins_images/tether/large.png"
@@ -147,14 +147,6 @@
       "logoURI": "https://instantmarketcap.com/coins_images/solana/large.jpg"
     },
     {
-      "name": "Terra",
-      "symbol": "Luna",
-      "address": "0xea1895ce9c2707a57beae92021c37fdfa5354240",
-      "chainId": 4181,
-      "decimals": 18,
-      "logoURI": "https://instantmarketcap.com/coins_images/terra-luna/large.png"
-    },
-    {
       "name": "Cardano",
       "symbol": "ADA",
       "address": "0x23783a8b4888eaf30163cd6f628dde5379bb3d19",
@@ -196,4 +188,3 @@
     }
   ]
 }
-
