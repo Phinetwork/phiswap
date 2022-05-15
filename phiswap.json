@@ -85,7 +85,7 @@
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0x0e9439ab9ece43ea5dfd32c9347b5a2654c7b749",
+      "address": "0xc9b0fcb7b97cfc0f1c3c9e360383ccc1bea6c795",
       "chainId": 4181,
       "decimals": 2,
       "logoURI": "https://instantmarketcap.com/coins_images/tether/large.png"
@@ -113,6 +113,14 @@
       "chainId": 4181,
       "decimals": 18,
       "logoURI": "https://instantmarketcap.com/coins_images/binancecoin/large.png"
+    },
+    {
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "address": "0xf0ebfbb621d6fb429962801053511f9b4da44271",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/polkadot/large.jpg"
     },
     {
       "name": "Uttey",
@@ -177,6 +185,14 @@
       "chainId": 4181,
       "decimals": 18,
       "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5202.png"
+    },
+    {
+      "name": "Alpha",
+      "symbol": "Alpha",
+      "address": "0xe09F3dA9330B3d3FCA7564d686401CA2190EA238",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/logo.png"
     },
     {
       "name": "PHISwap",
