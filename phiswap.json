@@ -8,7 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://phiswap.org/wp-content/uploads/2022/03/cropped-output-onlinepngtools-25.png",
-  "keywords": ["phiswap", "default"],
+  "keywords": ["Phiswap", "default"],
   "tokens": [
     {
       "name": "Wrapped PHI",
@@ -169,6 +169,54 @@
       "chainId": 4181,
       "decimals": 18,
       "logoURI": "https://instantmarketcap.com/coins_images/dogecoin/large.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "Dai",
+      "address": "0xa4B0715571c40e5781C745d4fF5DA89B11e2f814",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/dai/large.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x56eC101919778b5Fa5646F99B0446a35532d479e",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/binance-usd/large.png"
+    },
+    {
+      "name": "HEX",
+      "symbol": "HEX",
+      "address": "0x8bEB54A1EEEA6586B7fB09aef833a64175F3208D",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/hex/large.png"
+    },
+    {
+      "name": "Polygon",
+      "symbol": "Matic",
+      "address": "0x6b01CcB773304DaE7795FED0963AD91dE62a6A33",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/matic-network/large.png"
+    },
+    {
+      "name": "Gold",
+      "symbol": "Au",
+      "address": "0x2E24dB537e50eE2Ba5357D4292EE2D28A1bc537d",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/gold_bar_oz-removebg-preview.png"
+    },
+    {
+      "name": "Silver",
+      "symbol": "Ag",
+      "address": "0x07De06Fdd590160C9e860a1024fE82F39cd51C13",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/silver_bar_1_oz-removebg-preview.png"
     },
     {
       "name": "LegacyStars",
