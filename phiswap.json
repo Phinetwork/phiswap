@@ -208,7 +208,71 @@
       "address": "0x2E24dB537e50eE2Ba5357D4292EE2D28A1bc537d",
       "chainId": 4181,
       "decimals": 18,
-      "logoURI": "https://dev.phi.network/phistorage/2022/05/gold_bar_oz-removebg-preview.png"
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5423.png"
+    },
+    {
+      "name": "Euro",
+      "symbol": "€",
+      "address": "0xBba8EFA2a70bB16E6C6dc963A4a26C87ece148e3",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5417.png"
+    },
+    {
+      "name": "Pound Sterling",
+      "symbol": "£",
+      "address": "0xC8931F928F955D01aE6607840CDd4CAfcA2f6D5C",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5411.png"
+    },
+    {
+      "name": "Australian Dollar",
+      "symbol": "AUD",
+      "address": "0xD8684349D009e4794bddDDD438E8421f9C2E8586",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5415.png"
+    },
+    {
+      "name": "Canadian Dollar",
+      "symbol": "CAD",
+      "address": "0xa37310BaE5705F013946D54061c2c157AF5d069d",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5419.png"
+    },
+    {
+      "name": "Renminbi,
+      "symbol": "CN¥",
+      "address": "0xAA0459a48C90D7786ffd87143a4F8Ced96D8C196",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5426.png"
+    },
+    {
+      "name": "Japanese Yen",
+      "symbol": "JP¥",
+      "address": "0x375e303C8D42142cA958ee44D97D8D4B755ca492",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5427.png"
+    },
+    {
+      "name": "Swiss Franc",
+      "symbol": "CHF",
+      "address": "0x959fDa59392A60C1CDC5ea07b3CE90b95830a367",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5432.png"
+    },
+    {
+      "name": "United States Dollar",
+      "symbol": "$",
+      "address": "0xf12bF560bC97161C3baCEAabC0251421213A2C96",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5434.png"
     },
     {
       "name": "Silver",
@@ -216,7 +280,7 @@
       "address": "0x07De06Fdd590160C9e860a1024fE82F39cd51C13",
       "chainId": 4181,
       "decimals": 18,
-      "logoURI": "https://dev.phi.network/phistorage/2022/05/silver_bar_1_oz-removebg-preview.png"
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/IMG_5421.png"
     },
     {
       "name": "LegacyStars",
