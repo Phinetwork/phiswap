@@ -35,6 +35,70 @@
       "logoURI": "https://instantmarketcap.com/images/1647212160.png"
     },
     {
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "address": "0xbF5fF3E8585D4CbF3462821799F956A2EDBFcf5d",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/bitcoin-cash/large.png"
+    },
+    {
+      "name": "Avalache",
+      "symbol": "AVAX",
+      "address": "0x92461C9B5c047532cA9A672014695FffBDac4680",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/avalanche-2/large.png"
+    },
+    {
+      "name": "Cosmos",
+      "symbol": "Atom",
+      "address": "0x30740e2345FfAbC1FC168c18Bacbc57103971E7a",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/cosmos/large.png"
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "Link",
+      "address": "0x5629d27B3B2BAB0d39d8Ff5C5793792999d54DB9",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/chainlink/large.png"
+    },
+    {
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "address": "0xaE318ea7690E29284004Fdba547d2486Ad8875b6",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/litecoin/large.png"
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "address": "0x1eff15c4dabb489ca8afbba30feb6fdb7d9ab12c",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/monero/large.png"
+    },
+    {
+      "name": "Stellar",
+      "symbol": "XLM",
+      "address": "0x6a1dbb294b1cf5f3ca5195f38f437e30c4cf68d5",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/stellar/large.png
+    },
+    {
+      "name": "Klock",
+      "symbol": "Klock",
+      "address": "0x2977cbcf82fc2069050cdcd7cadd97497fd28904",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/logo.png"
+    },
+    {
       "name": "Dexfund",
       "symbol": "Dexfund",
       "address": "0xfc54fb4105e00dcaad0ba024be6f80469459cada",
