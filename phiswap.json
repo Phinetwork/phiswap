@@ -18,6 +18,14 @@
       "decimals": 18,
       "logoURI": "https://phi.network/wp-content/uploads/2022/05/0xb61D26717dBD2eA6EbF4FADae02A28782F86864C-removebg-preview-removebg-preview-removebg-preview.png"
     },
+        {
+      "name": "Phicash",
+      "symbol": "Φ$",
+      "address": "0xf1f4e7a5437a61b2ca0416c1a436133460f8b7c4",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phicash.com/wp-content/uploads/2022/03/cropped-IMG_1894-removebg-preview.png"
+    },
     {
       "name": "Element",
       "symbol": "Element",
