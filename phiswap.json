@@ -75,6 +75,14 @@
       "logoURI": "https://instantmarketcap.com/coins_images/litecoin/large.png"
     },
     {
+      "name": "KNECHI",
+      "symbol": "KNECHI",
+      "address": "0x45eb571215f751f3fb9f4f6f6835cb5b282f1284",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/05/logo-1.png"
+    },
+    {
       "name": "Monero",
       "symbol": "XMR",
       "address": "0x1eff15c4dabb489ca8afbba30feb6fdb7d9ab12c",
