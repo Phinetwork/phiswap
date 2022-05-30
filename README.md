@@ -1,6 +1,6 @@
 # Φ Phiswap Swap Exchange
 
-[[Phiswap Graphql]([https://status.phi.network](https://graph.phiswap.com/subgraphs/name/exchange/graphql))]
+[[Phiswap Graphql] (https://graph.phiswap.com/subgraphs/name/exchange/graphql)]
 
 [Phiswap](https://phiswap.com/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [PHI Smart Chain](https://phi.network) (PHI). It is fast, cheap, and allows anyone to participate.
 
