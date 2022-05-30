@@ -26,7 +26,7 @@ import { light, dark } from '@phiswap-libs/uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import { ResetCSS } from '@pancakeswap-libs/uikit'
+import { ResetCSS } from '@phiswap-libs/uikit'
 ...
 <ResetCSS />
 ```
