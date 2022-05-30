@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/npm/v/@phiswap-libs/uikit)](https://www.npmjs.com/package/@phiswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@pphiswap-libs/uikit)](https://www.npmjs.com/package/@phiswap-libs/uikit)
 
-Pancake UIkit is a set of React components and hooks used to build pages on Pancake's apps. It also contains a theme file for dark and light mode.
+Phiswap UIkit is a set of React components and hooks used to build pages on Phi's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
@@ -37,4 +37,4 @@ This project is built with Typescript and export all the relevant types.
 
 ## How to use the UIkit
 
-If you want to use components from the UIkit, check the [Storybook documentation](https://pancakeswap.github.io/pancake-uikit/)
+If you want to use components from the UIkit, check the [Storybook documentation](https://phinetwork.github.io/phiswap-uikit/)
