@@ -1,0 +1,175 @@
+{
+  "name": "Pancakeswap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped PHI",
+      "symbol": "WPHI",
+      "address": "0xb61D26717dBD2eA6EbF4FADae02A28782F86864C",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phi.network/wp-content/uploads/2022/05/0xb61D26717dBD2eA6EbF4FADae02A28782F86864C-removebg-preview-removebg-preview-removebg-preview.png"
+    },
+    {
+      "name": "Phicash",
+      "symbol": "Φ$",
+      "address": "0xf1f4e7a5437a61b2ca0416c1a436133460f8b7c4",
+      "chainId": 4181,
+      "decimals": 2,
+      "logoURI": "https://phicash.com/wp-content/uploads/2022/03/cropped-IMG_1894-removebg-preview.png"
+    },
+    {
+      "name": "Element",
+      "symbol": "Element",
+      "address": "0x2977cbcf82fc2069050cdcd7cadd97497fd28904",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/images/1647212160.png"
+    },
+    {
+      "name": "Dexfund",
+      "symbol": "Dexfund",
+      "address": "0xfc54fb4105e00dcaad0ba024be6f80469459cada",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/Webp.net-resizeimage-1.png"
+    },
+    {
+      "name": "Z1NT",
+      "symbol": "Z1NT",
+      "address": "0x725c836ed62f63c4fb7f4d96f4a34296909263f9",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phi.network/wp-content/uploads/2022/05/alien-monster_1f47e.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x1212Ad94fC912742cAc56f4898EEb4faC6fB5583",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/ethereum/large.png"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "address": "0xDb6473eDA7bBeb60D68724Fdcd6d8B7f22654AAf",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/bitcoin/large.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xd9990fDc1036e3E7bCcb3dFC163F666C77250B62",
+      "chainId": 4181,
+      "decimals": 2,
+      "logoURI": "https://instantmarketcap.com/coins_images/tether/large.png"
+    },
+    {
+      "name": "Lobeh",
+      "symbol": "Lobeh",
+      "address": "0x10d76d7aacd744311d6ce93fa5e98979a283c167",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phi.network/wp-content/uploads/2022/05/IMG_4885.png"
+    },
+    {
+      "name": "Binance",
+      "symbol": "BNB",
+      "address": "0x78901ecc10d26d1171cb2bad7934dedc63ed2f6c",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/binancecoin/large.png"
+    },
+    {
+      "name": "Uttey",
+      "symbol": "Uttey",
+      "address": "0xc9327a62fbeeda734c7c3153ed3b6710c38f2d84",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/images/1647743395.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xe2ed386bb50a69adcd4a27248f6160cfc28b3750",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/usd-coin/large.png"
+    },
+    {
+      "name": "Ripple",
+      "symbol": "XRP",
+      "address": "0x4ca3864c0dfd66eac9bf95b022f0908b2656cbc1",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/ripple/large.png"
+    },
+    {
+      "name": "Solana",
+      "symbol": "Sol",
+      "address": "0xa561185612297b88ea917baaac1ab5babe600346",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/solana/large.jpg"
+    },
+    {
+      "name": "Terra",
+      "symbol": "Luna",
+      "address": "0xea1895ce9c2707a57beae92021c37fdfa5354240",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/terra-luna/large.png"
+    },
+    {
+      "name": "Cardano",
+      "symbol": "ADA",
+      "address": "0x23783a8b4888eaf30163cd6f628dde5379bb3d19",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/cardano/large.png"
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "Doge",
+      "address": "0xcd7e8f5361d864ca69658bdde2df330910a1724f",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/dogecoin/large.png"
+    },
+    {
+      "name": "LegacyStars",
+      "symbol": "LegacyStars",
+      "address": "0x9c095d366b1789e1e2cd13b671507fefe4043560",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/PngItem_1849767.png"
+    },
+    {
+      "name": "Ji.Finance",
+      "symbol": "Ji.finance",
+      "address": "0x8F9F53ffF18394518061F1B1B2C9b9D9210C857A",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/IMG_5202.png"
+    },
+    {
+      "name": "PHISwap",
+      "symbol": "ΦSWAP",
+      "address": "0xf64d866730a41d6af2caf0c9345f7b3f21337668",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://app.phiswap.com/images/coins/0x74c259aa024dc00151f9417b60c2aa75dcba822e.png"
+    }
+  ]
+}
+
