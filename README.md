@@ -7,4 +7,5 @@
 This repo is responsible for the **exchange** interface of the AMM: [app.phiswap.com](https://app.phiswap.com/)
 
 If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
-[[Token List Json](https://phiswap.org)](https://github.com/Phinetwork/phiswap/blob/main/phiswap.json))
+
+[[Token List Json](https://github.com/Phinetwork/phiswap/blob/main/phiswap.json)]
