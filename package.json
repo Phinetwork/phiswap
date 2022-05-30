@@ -1,6 +1,6 @@
 {
-  "name": "@pancakeswap/interface",
-  "description": "Pancakeswap Interface",
+  "name": "@phiswap/interface",
+  "description": "phiswap Interface",
   "homepage": ".",
   "private": true,
   "dependencies": {
@@ -84,8 +84,8 @@
     "@walletconnect/web3-provider": "1.1.1-alpha.0"
   },
   "scripts": {
-    "start": "ncp uikit node_modules/@pancakeswap-libs/uikit && react-scripts start",
-    "build": "ncp uikit node_modules/@pancakeswap-libs/uikit && CI=false react-scripts build",
+    "start": "ncp uikit node_modules/@phiswap-libs/uikit && react-scripts start",
+    "build": "ncp uikit node_modules/@phiswap-libs/uikit && CI=false react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
