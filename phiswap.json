@@ -35,6 +35,46 @@
       "logoURI": "https://instantmarketcap.com/images/1647212160.png"
     },
     {
+      "name": "Theta",
+      "symbol": "Theta",
+      "address": "0x84890E5F625Bd5aA02ccc993e0C99F37E14d4815",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/theta-token/large.png"
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "address": "0xAB2CBF662999507b5c757360A12D08B2CE1791A8",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/zcash/large.png"
+    },
+    {
+      "name": "Dash",
+      "symbol": "Dash",
+      "address": "0xBa18e785B0121A256A4E2065289613cE968c3EE9",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/dash/large.png"
+    },
+    {
+      "name": "EOS",
+      "symbol": "EOS",
+      "address": "0x0befEE4309745a585Cce7D2Da6390C9735a40C0f",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/eos/large.png"
+    },
+    {
+      "name": "BAT",
+      "symbol": "BAT",
+      "address": "0xB62137Ac522A4A4140E1bFFe2D6fDF3E42ece8f1",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://instantmarketcap.com/coins_images/basic-attention-token/large.png"
+    },
+    {
       "name": "Bitcoin Cash",
       "symbol": "BCH",
       "address": "0xbF5fF3E8585D4CbF3462821799F956A2EDBFcf5d",
