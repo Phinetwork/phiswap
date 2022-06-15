@@ -59,6 +59,14 @@
       "logoURI": "https://instantmarketcap.com/coins_images/dash/large.png"
     },
     {
+      "name": "Oxrabell",
+      "symbol": "Oxrabell",
+      "address": "0xdc04e4770aab2bc5a2e4883013d66cb11843c063",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/ox-1.png"
+    },
+    {
       "name": "EOS",
       "symbol": "EOS",
       "address": "0x0befEE4309745a585Cce7D2Da6390C9735a40C0f",
