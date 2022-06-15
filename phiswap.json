@@ -203,6 +203,14 @@
       "logoURI": "https://instantmarketcap.com/coins_images/bitcoin/large.png"
     },
     {
+      "name": "Nibiru",
+      "symbol": "Nibiru",
+      "address": "0xa708bff8c9e37fd93197846833a7c05128678ddd",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/star.png"
+    },
+    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0xc9b0fcb7b97cfc0f1c3c9e360383ccc1bea6c795",
