@@ -67,6 +67,14 @@
       "logoURI": "https://dev.phi.network/phistorage/2022/06/ox-1.png"
     },
     {
+      "name": "Thoth",
+      "symbol": "Thoth",
+      "address": "0xAe5Fa9f14E7A26cc93541aAc77e9A0A1378Aa4db",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/thoth.png"
+    },
+    {
       "name": "Horus",
       "symbol": "Horus",
       "address": "0x8597D71C3f8a5a890E80C493b8694d9Ce34eC9f4",
