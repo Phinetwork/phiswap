@@ -67,6 +67,22 @@
       "logoURI": "https://dev.phi.network/phistorage/2022/06/ox-1.png"
     },
     {
+      "name": "Phederal Preserve",
+      "symbol": "PHED",
+      "address": "0x679a216b878192fffc47ab07530c539a45b54593",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/phed.png"
+    },
+    {
+      "name": "Seth",
+      "symbol": "Seth",
+      "address": "0x986bbaf811c871786323a8469f556ac566251cc0",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/seth.png"
+    },
+    {
       "name": "EOS",
       "symbol": "EOS",
       "address": "0x0befEE4309745a585Cce7D2Da6390C9735a40C0f",
