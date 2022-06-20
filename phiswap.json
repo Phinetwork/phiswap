@@ -91,6 +91,22 @@
       "logoURI": "https://dev.phi.network/phistorage/2022/06/seth.png"
     },
     {
+      "name": "Kojib",
+      "symbol": "Koj",
+      "address": "0xcc27fFDe8A72876Bf9C54c60f17E78d9e56Bc872",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://buy.kojib.com/wp-content/uploads/2022/06/kojib.png"
+    },
+    {
+      "name": "Zeta",
+      "symbol": "Zeta",
+      "address": "0x2fB0c324f3665034dbc0B57368a0e9f632DABdc6",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/zeta.png"
+    },
+    {
       "name": "EOS",
       "symbol": "EOS",
       "address": "0x0befEE4309745a585Cce7D2Da6390C9735a40C0f",
