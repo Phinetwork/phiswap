@@ -75,6 +75,14 @@
       "logoURI": "https://dev.phi.network/phistorage/2022/06/horus.png"
     },
     {
+      "name": "Osiris",
+      "symbol": "Osiris",
+      "address": "0xf9E1bA9451fc80a065e52cD4C838eC59276aEfa9",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://dev.phi.network/phistorage/2022/06/osiris.png"
+    },
+    {
       "name": "Phederal Preserve",
       "symbol": "PHED",
       "address": "0x679a216b878192fffc47ab07530c539a45b54593",
