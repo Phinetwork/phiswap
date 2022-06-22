@@ -35,4 +35,4 @@ Additional Requirements To Be Consider For Listing On Phiswap As Verified Token 
 1. $10,000,000+ In Liquidity 
 2. Price Populates On Phiswap Analytics
 3. 6+ Months Of Trading Activity
-4. Daily Trading Volume of $20,000+
+4. Average Daily Trading Volume of $20,000+
