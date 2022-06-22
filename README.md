@@ -13,16 +13,9 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 In order to streamline the review of the contribution we ask you
 to ensure the following steps have been taken:
 
-1. Create a folder under `/tokens`, the folder name is your token address in the `uppercase` format
+1. Go To Phiswap.json
 
-2. Upload your logo in your folder
-
-- [ ] Filename in the `uppercase` format with suffix
-- [ ] Image format: `png`
-- [ ] Image size: `256 by 256 px`
-- [ ] Titled logo.png
-
-3. Upload a json file for additional info. File name is your token symbol in the `uppercase` format with suffix
+2. Upload a json file for additional info. File name is your token symbol in the `uppercase` format with suffix
 
 
 Example:
