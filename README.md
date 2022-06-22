@@ -15,8 +15,8 @@ to ensure the following steps have been taken:
 
 1. Go To <p><a href="https://github.com/Phinetwork/phiswap/blob/main/phiswap.json">Token List Json</a></p>
 
-2. Upload a json file for additional info. File name is your token symbol in the `uppercase` format with suffix
-
+2. Add New Tokens Information In Json Format Example Below
+3. Submit A Pull Request 
 
 Example:
 
@@ -31,3 +31,8 @@ Example:
     },
 
 ```
+Additional Requirements To Be Consider For Listing On Phiswap As Verified Token & Logo Addition To Phiswap Analytics 
+1. $10,000,000+ In Liquidity 
+2. Price Populates On Phiswap Analytics
+3. 6+ Months Of Trading Activity
+4. Daily Trading Volume of $20,000+
