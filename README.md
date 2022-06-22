@@ -13,7 +13,7 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 In order to streamline the review of the contribution we ask you
 to ensure the following steps have been taken:
 
-1. Go To Phiswap.json
+1. Go To <p><a href="https://github.com/Phinetwork/phiswap/blob/main/phiswap.json">Token List Json</a></p>
 
 2. Upload a json file for additional info. File name is your token symbol in the `uppercase` format with suffix
 
