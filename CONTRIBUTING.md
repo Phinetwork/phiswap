@@ -14,7 +14,7 @@ yarn start
 
 Don't forget to setup your IDE with `eslint` and `prettier`.
 
-## Change BSC network
+## Change PHI network
 
 To change the PHI network from test net, modify the `REACT_APP_CHAIN_ID` value in `.env`.
 
