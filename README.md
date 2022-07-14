@@ -1,6 +1,12 @@
-# Φ Phiswap Swap Exchange
+# Φ Phiswap DEX AMM Exchange
 
 <p><a href="https://graph.phiswap.com/subgraphs/name/exchange/graphql">Phiswap Graphql</a></p>
+
+<p><a href="https://price.phi.network/api/ticker?filter=WPHI">Phi Price API</a></p>
+Price API SYNTAX
+https://price.phi.network/api/ticker?filter=(TOKEN-SYMBOL)
+<p></p>
+
 
 [Phiswap](https://phiswap.com/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [PHI Smart Chain](https://phi.network) (PHI). It is fast, cheap, and allows anyone to participate.
 
