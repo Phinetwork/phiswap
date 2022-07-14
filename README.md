@@ -2,8 +2,8 @@
 
 <p><a href="https://graph.phiswap.com/subgraphs/name/exchange/graphql">Phiswap Graphql</a></p>
 
-<p><a href="https://price.phi.network/api/ticker?filter=WPHI">Phi Price API</a></p>
-Price API SYNTAX
+<p><a href="https://price.phi.network/api/ticker?filter=WPHI">WPHI Price Consumable API</a></p>
+Price Consumable API SYNTAX
 https://price.phi.network/api/ticker?filter=(TOKEN-SYMBOL)
 <p></p>
 
