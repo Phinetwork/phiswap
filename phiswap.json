@@ -499,6 +499,14 @@
       "logoURI": "https://phiswap.org/wp-content/uploads/2022/05/logo.png"
     },
     {
+      "name": "PHIX",
+      "symbol": "PHIX",
+      "address": "0x2a035bdb30604600d8d566c7e8722b40eb8aed8f",
+      "chainId": 4181,
+      "decimals": 18,
+      "logoURI": "https://app.phi.exchange/images/teams/phix.png"
+    },
+    {
       "name": "PHISwap",
       "symbol": "ΦSWAP",
       "address": "0xf64d866730a41d6af2caf0c9345f7b3f21337668",
